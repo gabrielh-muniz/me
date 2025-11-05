@@ -37,6 +37,7 @@ function Header(): JSX.Element {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.2, delay: index * 0.1 }}
               whileHover={{ y: -2 }}
+              target={item.external ? "_blank" : "_self"}
             >
               <item.icon className="w-4 h-4" />
               {item.name}
@@ -97,6 +98,7 @@ function Header(): JSX.Element {
               >
                 <a
                   href={nav.href}
+                  target={nav.external ? "_blank" : "_self"}
                   className="text-muted-foreground hover:text-foreground block rounded-md px-2 py-2 text-sm font-medium transition-all duration-200"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >

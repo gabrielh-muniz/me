@@ -4,6 +4,7 @@ import {
   PocketKnife,
   Folder,
   GraduationCap,
+  ExternalLink,
 } from "lucide-react";
 
 const NAVIGATION_DATA = [
@@ -12,6 +13,13 @@ const NAVIGATION_DATA = [
   //{ id: 2, name: "Experiência", href: "/#experience", icon: Briefcase },
   { id: 3, name: "Habilidades", href: "/#skills", icon: PocketKnife },
   { id: 5, name: "Formação", href: "/#education", icon: GraduationCap },
+  {
+    id: 6,
+    name: "Blog",
+    href: "https://gabrielh-blog.netlify.app/",
+    icon: ExternalLink,
+    external: true,
+  },
 ];
 
 const PERSONAL_DATA = {
