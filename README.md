@@ -1,6 +1,6 @@
 # Astro Portfolio
 
-<img width="1738" height="2560" alt="image" src="https://github.com/user-attachments/assets/f26ff943-b5d0-47af-9a1d-644620758496" />
+<img width="1848" height="860" alt="image" src="https://github.com/user-attachments/assets/08938a1b-fcae-46e7-8a98-954e4890c7fb" />
 
 My personal portfolio built with Astro, React and Tailwind CSS, showcasing my projects, skills and experience as a Full Stack Jr Developer. Built with:
 
