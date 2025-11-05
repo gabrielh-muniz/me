@@ -91,6 +91,23 @@ const PROJECTS_DATA = [
       "Zustand",
     ],
   },
+  {
+    title: "Portfolio",
+    github: "https://github.com/gabrielh-muniz/me",
+    description:
+      "Meu portfólio pessoal construído com Astro, React e Tailwind CSS, apresentando meus projetos, habilidades e experiência como Desenvolvedor Full Stack Jr.",
+    image: "/images/projects/002_project.png",
+    imageAlt: "Screenshot of Portfolio project",
+    tags: [
+      "Astro",
+      "React",
+      "Tailwind CSS",
+      "Motion",
+      "Shadcn UI",
+      "TypeScript",
+      "Netlify",
+    ],
+  },
 ];
 
 export {
