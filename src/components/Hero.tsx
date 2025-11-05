@@ -65,7 +65,7 @@ export default function HeroSection() {
                 <MapPin className="h-4 w-4 mr-2" />
                 {PERSONAL_DATA.location}
               </motion.div>
-
+              {/* 
               <motion.a
                 href={`mailto:${PERSONAL_DATA.email}`}
                 className="flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors"
@@ -74,7 +74,7 @@ export default function HeroSection() {
               >
                 <Mail className="h-4 w-4 mr-2" />
                 {PERSONAL_DATA.email}
-              </motion.a>
+              </motion.a> */}
 
               <motion.a
                 href={PERSONAL_DATA.github}
