@@ -2,7 +2,7 @@
 
 <img width="1848" height="860" alt="image" src="https://github.com/user-attachments/assets/08938a1b-fcae-46e7-8a98-954e4890c7fb" />
 
-My personal portfolio built with Astro, React and Tailwind CSS, showcasing my projects, skills and experience as a Full Stack Jr Developer. Built with:
+> My personal portfolio built with Astro, React and Tailwind CSS, showcasing my projects, skills and experience as a Full Stack Jr Developer. Built with:
 
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
