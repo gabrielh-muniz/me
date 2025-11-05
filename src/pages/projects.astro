@@ -1,0 +1,14 @@
+---
+import Layout from "../layouts/Layout.astro";
+import AllProjects from "@/components/AllProjects";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+---
+
+<Layout>
+  <Header client:load />
+  <main>
+    <AllProjects client:load />
+  </main>
+  <Footer client:load />
+</Layout>
