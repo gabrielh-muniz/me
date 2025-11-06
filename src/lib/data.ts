@@ -116,6 +116,15 @@ const PROJECTS_DATA = [
       "Netlify",
     ],
   },
+  {
+    title: "Blog Pessoal",
+    github: "https://github.com/gabrielh-muniz/personal-blog",
+    description:
+      "Blog pessoal onde compartilho artigos sobre desenvolvimento web, dicas de programação e minhas experiências na área de tecnologia.",
+    image: "/images/projects/003_project.png",
+    imageAlt: "Screenshot of Personal Blog project",
+    tags: ["Astro", "Tailwind CSS", "Netlify CMS", "Markdown", "TypeScript"],
+  },
 ];
 
 export {
